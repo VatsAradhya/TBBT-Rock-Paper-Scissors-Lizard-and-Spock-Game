@@ -5,6 +5,7 @@ A Python command-line implementation of the classic *Big Bang Theory*-inspired g
 ## About the Game
 
 This variant was popularized by the TV show *The Big Bang Theory*. It expands the traditional 3-option game into 5 options, each with two ways to win, making draws less frequent.
+
 link - https://youtu.be/eVYvIaV7N6o?si=I61Zfq1XU2ZpnGT3
 
 ## Rules
